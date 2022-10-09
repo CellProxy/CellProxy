@@ -1,7 +1,16 @@
-- 👋 Hi, I’m @CellProxy
-- 📫 Email me @ CellProxy@proton.me
+## - 👋 Hi, I’m @CellProxy
 
-<!---
-CellProxy/CellProxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ✨ C++
+- ✨ C#
+- ✨ C
+- ✨ Java
+- ✨ Python
+- ✨ Visual Basic
+- ✨ Batch (Glorified windows command prompt)
+- ✨ HTML
+- ✨ CSS
+- ✨ Javascript
+
+Independent malware analyst & software developer
+
+- 📫 Email me @ CellProxy@proton.me
